@@ -15,9 +15,6 @@
 		</author>
 	</authors>
 	<releases>
-		<release version="1.2.3" date="2015-11-23" min="2.4">
-			- Bug fix, add attribute data-context to display options in symphony 2.6.x
-		</release>
 		<release version="1.2.2" date="2015-06-04" min="2.4">
 			- Bug fix, add right data attributes to table
 		</release>
